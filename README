@@ -1,0 +1,1 @@
+An old (2005) 3d scenegraph and rigid body dynamics library written in Java and rendered using the JOGL OpenGL bindings. Uses a Runge-Kutta iterator and handles collisions of type triangle-triangle and box-box.
